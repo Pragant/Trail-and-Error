@@ -1,2 +1,3 @@
 # Trail-and-Error
-Just practice
+Get better at coding start learning
+
